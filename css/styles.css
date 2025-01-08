@@ -822,8 +822,8 @@ background-color: #ae67fa;
 
   .header .header__menu .menu__close {
     position: absolute;
-    right: -100px;
-    top: -100px;
+    right: 150px;
+    top: -200px;
   }
 
   .header .header__menu .menu .menu__item a {
